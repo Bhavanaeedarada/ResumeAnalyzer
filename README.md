@@ -15,7 +15,7 @@ No external libraries are required — only **core Java**.
 ---
 #example output
 
-===== Resume Analysis =====
+ Resume Analysis 
 Total Words: 95
 Skills Found: [Java, Python, HTML, CSS, JavaScript, Machine Learning, SQL]
-===========================
+
