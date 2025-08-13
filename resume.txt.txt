@@ -1,0 +1,29 @@
+John Doe
+Email: john.doe@example.com
+Phone: +91-9876543210
+
+Profile Summary:
+A highly motivated software developer with experience in Java, Python, and SQL. 
+Passionate about building scalable applications and learning new technologies.
+
+Skills:
+- Java
+- Python
+- SQL
+- HTML, CSS, JavaScript
+- Machine Learning
+- Problem Solving
+
+Work Experience:
+Software Developer Intern - ABC Tech Solutions
+June 2024 - August 2024
+Worked on backend APIs using Java and Spring Boot.
+Improved application performance by 20%.
+
+Education:
+B.Tech in Computer Science - SRKR Engineering College
+CGPA: 8.9
+
+Certifications:
+- Java Programming Certification
+- Machine Learning with Python
